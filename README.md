@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 <h1 align="center">I'm Md.Jobairul Hassan</h1>
 <h3 align="center">Fresh graduate from Ahsanullah University of Science and Technology</h3>
 
-As a recent graduate in Computer Science, my aim is to learn, improve and apply diverse programming, problem-solving, and software development strategies to excel in the field and contribute to innovative projects. I like to utilize my lively and energetic attitude in software developing with great enthusiasm.
+As a recent graduate in Computer Science and Engineering, my aim is to learn, improve, and apply different programming, problem-solving, and software development strategies to excel in this field and contribute to innovative projects. I like to utilize my lively and energetic attitude in software developing with great enthusiasm.
 
 Skills: <br>○ Programming: C++ ,Java(OOP), Python, PHP. <br>○ Database: Mysql, Microsoft SQL ,SQLPLUS, Firebase. <br>○ Machine Learning Libraries: Pandas, Numpy, Matplotlib, Scikit-Learn, PyTorch <br>○ Miscellaneous: HTML, CSS, Bootstrap, Git.
 
-- 🌱 I’m currently learning React, Django, REST 
+- 🌱 I’m currently learning React, Django
 - 👯 I’m looking to collaborate on new or ongoing project backend development 
 - 📫 How to reach me: hasanjobairul@gmail.com 
 
