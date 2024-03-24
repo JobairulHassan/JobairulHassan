@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">I'm Md.Jobairul Hassan</h1>
-<h3 align="center">Fresh graduate from Ahsanullah University of Science and Technology</h3>
+<h3 align="center">Graduated from Ahsanullah University of Science and Technology</h3>
 
 As a recent graduate in Computer Science and Engineering, my aim is to learn, improve, and apply different programming, problem-solving, and software development strategies to excel in this field and contribute to innovative projects. I like to utilize my lively and energetic attitude in software developing with great enthusiasm.
 
